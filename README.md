@@ -1,44 +1,24 @@
-# 2x1 Multiplexer (MUX) using Verilog HDL
+# VLSI Design Lab
 
-## Project Overview
-This project implements a 2x1 Multiplexer using Verilog HDL and verifies its functionality using a testbench.
+This repository contains my RTL Design and Verification projects completed using Verilog HDL.
 
-## Files
-- mux2x1.v : Verilog design for the 2x1 Multiplexer
-- tb_mux2x1.v : Testbench for simulation
+## Projects
 
-## Logic
-Y = (sel) ? B : A
+### 01. 2x1 Multiplexer
+- Verilog implementation
+- Testbench
+- Simulation
 
-## Truth Table
-
-| Sel | Output |
-|-----|--------|
-| 0 | A |
-| 1 | B |
+### 02. 4-bit Ripple Carry Adder
+- Full Adder module
+- Ripple Carry Adder
+- Testbench
+- Simulation
 
 ## Tools Used
 - Verilog HDL
 - Icarus Verilog
-- GTKWave (optional)
+- GTKWave
 - Ubuntu (WSL)
 
-## Simulation
-
-The design was compiled using:
-
-```bash
-iverilog -o mux_sim mux2x1.v tb_mux2x1.v
-```
-
-Simulation:
-
-```bash
-vvp mux_sim
-```
-
-## Author
-
-Aishwarya Veldandi
-B.Tech Electronics Engineering (VLSI)
-CBIT Hyderabad
+More projects will be added as I progress through my VLSI learning journey.
