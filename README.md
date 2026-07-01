@@ -15,6 +15,11 @@ This repository contains my RTL Design and Verification projects completed using
 - Testbench
 - Simulation
 
+### 03. 4bit_ALU
+- 8 Operations (Add, Sub, AND, OR, XOR, NOT, Left Shift, Right Shift)
+- Testbench
+- Simulation
+
 ## Tools Used
 - Verilog HDL
 - Icarus Verilog
