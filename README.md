@@ -4,10 +4,12 @@ This repository contains my RTL Design and Verification projects completed using
 
 ## Projects
 
-### 01. 2x1 Multiplexer
+### 01. 2×1 Multiplexer
 - Verilog implementation
 - Testbench
 - Simulation
+
+---
 
 ### 02. 4-bit Ripple Carry Adder
 - Full Adder module
@@ -15,15 +17,45 @@ This repository contains my RTL Design and Verification projects completed using
 - Testbench
 - Simulation
 
-### 03. 4bit_ALU
-- 8 Operations (Add, Sub, AND, OR, XOR, NOT, Left Shift, Right Shift)
+---
+
+### 03. 4-bit ALU
+- 8 Operations:
+  - Addition
+  - Subtraction
+  - AND
+  - OR
+  - XOR
+  - NOT
+  - Left Shift
+  - Right Shift
 - Testbench
 - Simulation
 
+---
+
+### 04. 4-bit Serial-In Serial-Out (SISO) Shift Register
+- Verilog implementation
+- Active-High Reset
+- Positive Edge Triggered
+- Serial Input & Serial Output
+- Testbench
+- GTKWave Simulation
+
+---
+
 ## Tools Used
+
 - Verilog HDL
 - Icarus Verilog
 - GTKWave
 - Ubuntu (WSL)
+- Git
+- GitHub
 
-More projects will be added as I progress through my VLSI learning journey.
+---
+
+## Author
+**Aishwarya Veldandi**
+B.Tech Electronics Engineering (VLSI)
+Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad
