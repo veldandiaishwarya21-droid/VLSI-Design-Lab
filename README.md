@@ -44,6 +44,27 @@ This repository contains my RTL Design and Verification projects completed using
 
 ---
 
+### 05. Synchronous Counter
+
+- 4-bit Binary Counter
+- Positive Edge Triggered
+- Asynchronous Reset
+- Testbench
+- GTKWave Simulation
+
+---
+
+### 06. Up/Down Counter
+
+- 4-bit Synchronous Counter
+- Up Count Mode
+- Down Count Mode
+- Asynchronous Reset
+- Testbench
+- GTKWave Simulation
+
+---
+
 ## Tools Used
 
 - Verilog HDL
