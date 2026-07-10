@@ -58,4 +58,5 @@ gtkwave counter.vcd
 ---
 
 ## Simulation Result
+<"https://github.com/user-attachments/assets/7f1b4198-ebe2-4579-9a55-542326e40ef2" />
 
