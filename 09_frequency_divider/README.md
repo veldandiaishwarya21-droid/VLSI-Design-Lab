@@ -85,6 +85,7 @@ The waveform confirms that:
 ---
 
 ## 📸 Waveform
+<"https://github.com/user-attachments/assets/3dfeaca0-0890-4be3-ae5a-5025dffea768" />
 
 ---
 
