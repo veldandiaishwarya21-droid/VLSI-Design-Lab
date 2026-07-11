@@ -61,3 +61,6 @@ RED → GREEN → YELLOW → RED
 The waveform verifies the correct sequence:
 
 RED → GREEN → YELLOW → RED
+
+<"https://github.com/user-attachments/assets/bf8b15bf-2577-469f-8b12-71de95dd9d68" />
+
